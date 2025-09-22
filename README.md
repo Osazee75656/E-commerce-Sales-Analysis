@@ -44,6 +44,8 @@ During data preparation, the following steps were undertaken:
 4. Checking column distribution and quality  
 5. Changing data types  
 6. Removing duplicates
+7. Data Modelling 
+<img width="1033" height="545" alt="Screenshot 2025-09-22 142500-data modeling" src="https://github.com/user-attachments/assets/9606aff4-316f-4e8d-8a5c-572d0eaf02d6" />
 
 ### Exploratory Data Analysis  
 This phase involved examining the overall data to answer key questions such as:  
