@@ -16,6 +16,10 @@
 ### Project Overview  
 This analysis offers a detailed summary of e-commerce sales performance from [2014] to [2021]. The purpose of this report is to highlight major trends, assess the success of sales strategies, and deliver actionable insights to improve future business decisions.
 
+<img width="545" height="304" alt="Screenshot-ecommerce Freedom O - replica by me " src="https://github.com/user-attachments/assets/e34dace7-ff79-43a5-9780-bd8eb6718c83" />
+
+
+
 ### Data Sources  
 - Sales Data: The primary dataset used in this analysis is the Sales data set (fact_table), which contains comprehensive details about the company's sales from 2014 to 2021.  
 - Country Data: This secondary dataset (item_dim) includes information about locations, suppliers, and other columns, supplementing the primary dataset to map geographical sales distribution.  
